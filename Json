@@ -1,0 +1,30 @@
+{
+  "name": "SDOGE",
+  "symbol": "SDOGE",
+  "description": "The Solana Doge — fast, cute and ready to pump the memesphere.",
+  "image": "https://raw.githubusercontent.com/BTCro12/-SDOGE/main/file_00000000826871f4bc5a803ddb848a57%20(1).png",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Dog"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Neon Retro"
+    },
+    {
+      "trait_type": "Vibe",
+      "value": "Happy"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BTCro12/-SDOGE/main/file_00000000826871f4bc5a803ddb848a57%20(1).png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
